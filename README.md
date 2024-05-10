@@ -1,1 +1,1 @@
-# Thyroid-nodule-classification
+# thyroid-detection
